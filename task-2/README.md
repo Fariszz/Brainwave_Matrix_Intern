@@ -1,4 +1,4 @@
-# Ballot DApp
+# Supply Chain Management  DApp
 
 A decentralized Supply Chain Management built with Ethereum smart contracts and React.
 
